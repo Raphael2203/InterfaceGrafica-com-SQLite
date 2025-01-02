@@ -24,7 +24,7 @@ Configuração
 Clone o repositório:
 
 bash
-git clone https://github.com/seu_usuario/nome_do_projeto.git
+git clone https://https://github.com/Raphael2203/InterfaceGrafica-com-SQLite
 Navegue até o diretório do projeto:
 
 bash
